@@ -1,5 +1,5 @@
 # MacNameChanger
-#### Change the name based on a schema - every time the Mac is restarted
+#### Change the name based on a schema - every time the Mac is started
 
 
 During my time as an administrator, it happened that users repeatedly change the name of the computer.
