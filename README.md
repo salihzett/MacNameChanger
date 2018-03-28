@@ -23,7 +23,7 @@ done
 ```
 The result is:
 ```
-ComputerName: MacBookPro113_s.zett
+ComputerName: MacBookPro11,3_s.zett
 HostName: MacBookPro113_szett.local
 LocalHostName: MacBookPro113_szett
 ```
