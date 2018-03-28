@@ -28,7 +28,7 @@ HostName: MacBookPro113_szett.local
 LocalHostName: MacBookPro113_szett
 ```
 
-The line with `localUsers` takes the first user (alphabetical) on the Mac. Other methods (e.g. with `whoami` wouldn't work because the script runs with root privileges.
+The line with `localUsers` takes the first user (alphabetical) on the Mac. Other methods (e.g. with `whoami`) wouldn't work because the script runs with root privileges.
 
 The reason why I remove comma and point in HostName / LocalHostName is that some programs can not cope with these signs. (e.g. [Google Mail](https://support.google.com/mail/answer/6386757?visit_id=0-636578195982351165-252876126&p=helo&rd=1)).
 
