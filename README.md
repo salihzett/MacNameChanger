@@ -53,4 +53,4 @@ The plist file is stored in the folder `launchdaemon`. The script runs at every 
 
 All the files are stored here on github. 
 I have also create a pkg file that saves the corresponding files in the corresponding directories. (it isn't signed.)
-[Download](NameChanger.pkg)
+[Releases](https://github.com/salihzett/MacNameChanger/releases/tag/v1.0)
