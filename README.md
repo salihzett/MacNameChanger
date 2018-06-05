@@ -24,8 +24,8 @@ done
 The result is:
 ```
 ComputerName: MacBookPro11,3_s.zett
-HostName: MacBookPro113_szett.local
-LocalHostName: MacBookPro113_szett
+HostName: MacBookPro113-szett.local
+LocalHostName: MacBookPro113-szett
 ```
 
 The line with `localUsers` takes the first user (alphabetical) on the Mac. Other methods (e.g. with `whoami`) wouldn't work because the script runs with root privileges.
