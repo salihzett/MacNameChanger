@@ -40,10 +40,10 @@ The plist file is stored in the folder `launchdaemon`. The script runs at every 
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.elevencharacters.rename_mac.plist</string>
+	<string>de.salihzengin.rename_mac.plist</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/Library/Application Support/eleven/rename_mac.sh</string>
+		<string>/Library/Application Support/salihzett/rename_mac.sh</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
